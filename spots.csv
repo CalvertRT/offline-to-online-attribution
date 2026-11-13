@@ -1,0 +1,7 @@
+spot_id,air_time,station,market,length_sec,cost_usd
+S1,2026-03-02 19:14,Station A,Market 1,30,450
+S2,2026-03-02 19:52,Station B,Market 1,30,300
+S3,2026-03-02 20:31,Station C,Market 2,60,620
+S4,2026-03-02 21:07,Station A,Market 1,30,450
+S5,2026-03-02 21:46,Station B,Market 1,30,300
+S6,2026-03-02 22:22,Station C,Market 2,60,620
